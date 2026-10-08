@@ -102,12 +102,20 @@ PID values are specific to your weight, wheel size, motor and battery voltage.
 
 
 
-https://github.com/user-attachments/assets/85977b9d-64b8-4eab-beb0-afd7fae69fd1
+
+
+https://github.com/user-attachments/assets/a5a6a393-e260-479e-8745-cf48acce4c8e
 
 
 
 
-https://github.com/user-attachments/assets/e422e78d-b2d5-4768-9c21-e5931fe21e1c
+
+
+
+
+https://github.com/user-attachments/assets/3d98c6a5-224b-486f-9dc2-2ef70e6621a0
+
+
 
 
 
