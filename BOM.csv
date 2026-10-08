@@ -1,0 +1,13 @@
+Component,Quantity,Price/Unit (USD),Purpose,Purchase Link
+ESP32-WROOM-32 38-Pin Development Board,1,4.18,Main controller and PID processing,https://robu.in/product/esp32-38pin-development-board-wifibluetooth-ultra-low-power-consumption-dual-core/
+MPU9250 9-Axis Module,1,23.26,Accelerometer and gyroscope for tilt sensing (magnetometer unused),https://robu.in/product/mpu9250-9-axis-attitude-gyro-accelerator-magnetometer-sensor-module-2/
+TB6612FNG Motor Driver,1,1.54,Dual H-bridge driver that switches battery current to the motors and sets their direction, https://robu.in/product/motor-driver-tb6612fng-module-performance-ultra-small-volume-3-pi-matching-performance-ultra-l298n/
+5V 200RPM TT DC Gear Motor 1:48 (Pair),1,4.65,Geared motors that deliver the torque to correct the tilt,https://robu.in/product/pair-5v-200rpm-microbit-tt-dc-motor-148/
+65mm Robot Wheel for BO Motors,2,0.28,Drive wheels,https://robu.in/product/robot-smart-car-wheel-tyre-bo-motor/
+18650 Li-Ion Battery 3.7V 2000mAh,1,0.64,Rechargeable power source,https://robocraze.com/products/3-7v-2000mah-18650-li-ion-battery?variant=41414818758809
+18650 x 2 Battery Holder with Cover and On/Off Switch,1,0.55,Holds the cells safely and provides a power switch,https://robu.in/product/18650-x-2-battery-holder-with-cover-and-on-off-switch/
+LM2596 DC-DC Buck Converter (Adjustable),1,0.45,Steps battery voltage down to a stable 5V for the ESP32,https://robocraze.com/products/lm2596-dc-dc-buck-module?variant=40192693076121
+Male to Female Jumper Wires 40pcs 20cm,1,0.46,Prototyping connections between boards,https://robu.in/product/male-to-female-jumper-wires-40pcs-20cm/
+Female to Female Dupont Wires 40pin 20cm,1,1.63,Prototyping connections between module headers,https://robu.in/product/acebott-20cm-dupont-wire-40pin-female-to-female/
+3-in-1 Soldering Iron Kit (25W iron + solder + flux),1,1.68,Making permanent connections once the circuit is final, https://www.amazon.in/gp/product/B07W32JT5N/ref=ox_sc_act_title_1?smid=A3LR6E2CIRD8HG&psc=1
+eSUN PLA Matte Deep Black 1.75mm Filament,1,12.09,3D printing the chassis,https://robu.in/product/esun-epla-gloss-1-75mm-3d-printing-filament-1kg/
